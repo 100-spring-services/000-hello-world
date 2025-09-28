@@ -1,2 +1,3 @@
 # 000-hello-world
-A simple hello world spring-boot service
+A simple hello world spring-boot service.
+
